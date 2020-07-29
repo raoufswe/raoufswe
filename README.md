@@ -4,6 +4,7 @@
   <img align="left" alt="Raouf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+<br>
 
 ### I am Raouf
 - A Software Engineer & JavaScript enthusiast 🦸
