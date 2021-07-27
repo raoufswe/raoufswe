@@ -9,5 +9,4 @@
 ### I am Raouf
 - A Software Engineer & JavaScript enthusiast 🦸
 - Located in Malaysia 🇲🇾
-- Currently wokring on [Volcanic](https://www.volcanic.com/) 👨🏻‍💻
 - Love building products that simplify people’s life ✨
